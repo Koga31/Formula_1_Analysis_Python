@@ -1,0 +1,11 @@
+fastf1
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+xgboost
+lightgbm
+catboost
+streamlit
+tqdm
